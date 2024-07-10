@@ -9,12 +9,10 @@ LSTM-based neural network model.
 Training and evaluation scripts.
 Sample predictions on test data.
 ## Requirements
-Python 3.7+
-TensorFlow 2.x
-Keras
-NumPy
-Pandas
-Scikit-learn
-NLTK
-Installation
-Clone the repository:
+Python 3.7+.
+TensorFlow 2.x.
+Keras.
+NumPy.
+Pandas.
+Scikit-learn.
+NLTK.
